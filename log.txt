@@ -1,0 +1,7 @@
+Start Log at 2025-01-16 12:34:03.931199
+INFO: Read raw data from C:/Users/pengj/Downloads/20250116113709.csvsuccessfully 2025-01-16 12:34:03.938832
+INFO: Read mapping data from mapping.xlsx successfully 2025-01-16 12:34:03.959832
+INFO: Mapping data successfully 2025-01-16 12:34:03.968832
+ERROR: Save data to 结果.xlsx failed: [Errno 13] Permission denied: '结果.xlsx'
+ 2025-01-16 12:34:03.975833
+INFO: Open 结果.xlsx successfully 2025-01-16 12:34:04.065974
